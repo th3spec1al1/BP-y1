@@ -1,0 +1,1 @@
+add_library(mylib WorkWithFiles.cpp StructDatabase.hpp Shot.cpp CreateField.cpp Parser.cpp)

@@ -1,0 +1,1 @@
+add_library(mylib parser.cpp tsvparser.cpp sandpile.cpp createBMP.cpp fillBMP.cpp)

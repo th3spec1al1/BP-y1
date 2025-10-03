@@ -1,0 +1,2157 @@
+{
+    "create_time": 1740328149,
+    "interval_segments": [],
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "total": 28
+    },
+    "search": {
+        "date": "2025-02-24",
+        "from": {
+            "code": "c25",
+            "popular_title": "Псков",
+            "short_title": "Псков",
+            "title": "Псков",
+            "type": "settlement"
+        },
+        "to": {
+            "code": "c2",
+            "popular_title": "Санкт-Петербург",
+            "short_title": "Санкт-Петербург",
+            "title": "Санкт-Петербург",
+            "type": "settlement"
+        }
+    },
+    "segments": [
+        {
+            "arrival": "2025-02-24T06:20:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T00:55:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 19500.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 7895,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ИП Андреев Алексей Анатольевич",
+                    "url": null
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_21_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_21_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1338
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T06:40:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T01:30:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 18600.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 66068,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ИП Мешков Алексей Анатольевич",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_6_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_6_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1338
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T06:45:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T02:20:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 15900.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "Санкт-Петербург, пл.Победы,1",
+                    "code": 60013,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "Офис в гостинице \"Парк Инн Пулковская\" работает ежедневно с 11:00 до 19:00 (с 12:00 до 13:00 технологический перерыв).  <br>\r\nТелефон: +7 (812) 740-39-85. <br>\r\nАО \"Совавто-С.Петербург\" является официальным перевозчиком, имеющим разрешения Министерств транспорта России и Финляндии. Пересечение границы - без очереди. Все пассажиры застрахованы. На рынке международных пассажирских перевозок - с 1991 года. ",
+                    "email": "sovavtobus@sovavto.ru",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "+7 (812) 740-39-85",
+                    "title": "АО \"Совавто-С.Петербург\"",
+                    "url": "http://bus.sovavto.ru/"
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_5_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_5_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1060
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T07:15:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T02:40:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 16500.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 67111,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "SIA \"Norma-A\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_15_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_15_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T07:00:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T02:45:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 15300.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 65628,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "АО \"ЕВРОЛАЙНС\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_23_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_23_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T08:00:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T03:15:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 17100.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 66949,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "КТУП \"Минсктранс\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_13_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_13_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T07:45:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T03:45:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 14400.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 62263,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ООО \"ЭКОЛАЙНС РУС\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_8_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_8_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T09:05:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T04:40:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 15900.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 56952,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ООО \"АМРОН\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_22_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_22_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T09:39:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T06:05:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 12840.0,
+            "from": {
+                "code": "s9602993",
+                "popular_title": null,
+                "short_title": null,
+                "station_type": "station",
+                "station_type_name": "станция",
+                "title": "Псков-Пасс.",
+                "transport_type": "train",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 4240,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+                    "email": "",
+                    "logo": "https://yastat.net/s3/rasp/media/data/company/logo/doss.jpg",
+                    "logo_svg": null,
+                    "phone": "+7 (800) 775-00-00",
+                    "title": "РЖД/ДОСС",
+                    "url": "http://www.rzd.ru/"
+                },
+                "express_type": null,
+                "number": "810В",
+                "short_title": "Псков — Санкт-Петербург",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=810V_0_2",
+                "title": "Псков — Санкт-Петербург",
+                "transport_subtype": {
+                    "code": "lastdal",
+                    "color": "#CC6600",
+                    "title": "«Ласточка»"
+                },
+                "transport_type": "train",
+                "uid": "810V_0_2",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 725
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9602498",
+                "popular_title": "Балтийский вокзал",
+                "short_title": "СПб-Балт.",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "title": "Санкт-Петербург (Балтийский вокзал)",
+                "transport_type": "train",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T11:10:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T06:50:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 15600.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 62745,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ИП Егоров Виктор Иванович",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_2_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_2_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1070
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T16:50:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T09:50:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 25200.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "г. Санкт-Петербург, Екатерининский проспект, дом 3, Литер А",
+                    "code": 56544,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "Касса по продаже билетов от автовокзала на Обводном канале д. 36 располагается не на самом автовокзале, а рядом с ним! <br>\r\nАдрес: Набережная Обводного канала, д. 42, вход через магазин \"Продукты\". <br>\r\nЧасы работы: с 06:30 до 21:30 без перерыва и выходных. <br>\r\nТелефон кассы: +7 (800) 700-90-22. <br>\r\nТелефоны перевозчика: +7 (800) 770-00-20 - звонок бесплатный;<br> +7 (812) 604-00-12",
+                    "email": null,
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "+7 (800) 770-00-20",
+                    "title": "ООО \"СКСавто\"",
+                    "url": "https://sks-auto.ru"
+                },
+                "express_type": null,
+                "number": "6037",
+                "short_title": "Псков - Санкт-Петербург",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_0_f9623413t9637148_1",
+                "title": "Псков - Санкт-Петербург",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_0_f9623413t9637148_1",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T16:25:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T11:00:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 19500.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 7895,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ИП Андреев Алексей Анатольевич",
+                    "url": null
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_18_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_18_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1338
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T16:28:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T12:54:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 12840.0,
+            "from": {
+                "code": "s9602993",
+                "popular_title": null,
+                "short_title": null,
+                "station_type": "station",
+                "station_type_name": "станция",
+                "title": "Псков-Пасс.",
+                "transport_type": "train",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 4240,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+                    "email": "",
+                    "logo": "https://yastat.net/s3/rasp/media/data/company/logo/doss.jpg",
+                    "logo_svg": null,
+                    "phone": "+7 (800) 775-00-00",
+                    "title": "РЖД/ДОСС",
+                    "url": "http://www.rzd.ru/"
+                },
+                "express_type": null,
+                "number": "832Я",
+                "short_title": "Печоры-Псковские — Санкт-Петербург",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=832YA_1_2",
+                "title": "Печоры-Псковские — Санкт-Петербург",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "train",
+                "uid": "832YA_1_2",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 725
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9602498",
+                "popular_title": "Балтийский вокзал",
+                "short_title": "СПб-Балт.",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "title": "Санкт-Петербург (Балтийский вокзал)",
+                "transport_type": "train",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T18:15:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T13:00:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 18900.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 66068,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ИП Мешков Алексей Анатольевич",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_11_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_11_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1338
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T18:18:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T14:22:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 14160.0,
+            "from": {
+                "code": "s9602993",
+                "popular_title": null,
+                "short_title": null,
+                "station_type": "station",
+                "station_type_name": "станция",
+                "title": "Псков-Пасс.",
+                "transport_type": "train",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 4240,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+                    "email": "",
+                    "logo": "https://yastat.net/s3/rasp/media/data/company/logo/doss.jpg",
+                    "logo_svg": null,
+                    "phone": "+7 (800) 775-00-00",
+                    "title": "РЖД/ДОСС",
+                    "url": "http://www.rzd.ru/"
+                },
+                "express_type": null,
+                "number": "818Р",
+                "short_title": "Псков — Санкт-Петербург",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=818R_0_2",
+                "title": "Псков — Санкт-Петербург",
+                "transport_subtype": {
+                    "code": "lastdal",
+                    "color": "#CC6600",
+                    "title": "«Ласточка»"
+                },
+                "transport_type": "train",
+                "uid": "818R_0_2",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 725
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9602498",
+                "popular_title": "Балтийский вокзал",
+                "short_title": "СПб-Балт.",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "title": "Санкт-Петербург (Балтийский вокзал)",
+                "transport_type": "train",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T20:30:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T14:30:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 21600.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 62263,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ООО \"ЭКОЛАЙНС РУС\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_20_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_20_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1819
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T20:55:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T15:45:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 18600.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 66068,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ИП Мешков Алексей Анатольевич",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_4_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_4_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1338
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T23:10:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T17:50:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 19200.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "г. Санкт-Петербург, Екатерининский проспект, дом 3, Литер А",
+                    "code": 56544,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "Касса по продаже билетов от автовокзала на Обводном канале д. 36 располагается не на самом автовокзале, а рядом с ним! <br>\r\nАдрес: Набережная Обводного канала, д. 42, вход через магазин \"Продукты\". <br>\r\nЧасы работы: с 06:30 до 21:30 без перерыва и выходных. <br>\r\nТелефон кассы: +7 (800) 700-90-22. <br>\r\nТелефоны перевозчика: +7 (800) 770-00-20 - звонок бесплатный;<br> +7 (812) 604-00-12",
+                    "email": null,
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "+7 (800) 770-00-20",
+                    "title": "ООО \"СКСавто\"",
+                    "url": "https://sks-auto.ru"
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=empty_14_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_14_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 2246
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T23:08:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T19:34:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 12840.0,
+            "from": {
+                "code": "s9602993",
+                "popular_title": null,
+                "short_title": null,
+                "station_type": "station",
+                "station_type_name": "станция",
+                "title": "Псков-Пасс.",
+                "transport_type": "train",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 4240,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+                    "email": "",
+                    "logo": "https://yastat.net/s3/rasp/media/data/company/logo/doss.jpg",
+                    "logo_svg": null,
+                    "phone": "+7 (800) 775-00-00",
+                    "title": "РЖД/ДОСС",
+                    "url": "http://www.rzd.ru/"
+                },
+                "express_type": null,
+                "number": "834Я",
+                "short_title": "Печоры-Псковские — Санкт-Петербург",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=834YA_0_2",
+                "title": "Печоры-Псковские — Санкт-Петербург",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "train",
+                "uid": "834YA_0_2",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 725
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9602498",
+                "popular_title": "Балтийский вокзал",
+                "short_title": "СПб-Балт.",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "title": "Санкт-Петербург (Балтийский вокзал)",
+                "transport_type": "train",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-25T02:24:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-24T22:50:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 12840.0,
+            "from": {
+                "code": "s9602993",
+                "popular_title": null,
+                "short_title": null,
+                "station_type": "station",
+                "station_type_name": "станция",
+                "title": "Псков-Пасс.",
+                "transport_type": "train",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-24",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 4240,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "Единая телефонная линия: +7 (800) 775-00-00 (звонок бесплатный из всех регионов РФ).",
+                    "email": "",
+                    "logo": "https://yastat.net/s3/rasp/media/data/company/logo/doss.jpg",
+                    "logo_svg": null,
+                    "phone": "+7 (800) 775-00-00",
+                    "title": "РЖД/ДОСС",
+                    "url": "http://www.rzd.ru/"
+                },
+                "express_type": null,
+                "number": "816Я",
+                "short_title": "Псков — Санкт-Петербург",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-24&uid=816YA_0_2",
+                "title": "Псков — Санкт-Петербург",
+                "transport_subtype": {
+                    "code": "lastdal",
+                    "color": "#CC6600",
+                    "title": "«Ласточка»"
+                },
+                "transport_type": "train",
+                "uid": "816YA_0_2",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 725
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9602498",
+                "popular_title": "Балтийский вокзал",
+                "short_title": "СПб-Балт.",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "title": "Санкт-Петербург (Балтийский вокзал)",
+                "transport_type": "train",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-25T06:20:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-25T00:55:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 19500.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-25",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 7895,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ИП Андреев Алексей Анатольевич",
+                    "url": null
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-25&uid=empty_21_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_21_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1338
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-25T05:30:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-25T01:10:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 15600.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-25",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 59111,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "фирма Висса",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-25&uid=empty_10_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_10_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-25T06:40:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-25T01:30:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 18600.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-25",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 66068,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ИП Мешков Алексей Анатольевич",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-25&uid=empty_6_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_6_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1338
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-25T07:15:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-25T02:40:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 16500.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-25",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 67111,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "SIA \"Norma-A\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-25&uid=empty_15_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_15_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-25T07:00:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-25T02:45:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 15300.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-25",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 65628,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "АО \"ЕВРОЛАЙНС\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-25&uid=empty_23_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_23_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-25T08:00:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-25T03:15:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 17100.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-25",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 62716,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ООО \"Петербургская Транспортная Компания\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-25&uid=empty_7_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_7_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": [
+                    {
+                        "currency": "RUB",
+                        "name": null,
+                        "price": {
+                            "cents": 0,
+                            "whole": 1605
+                        }
+                    }
+                ]
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-25T07:45:00+03:00",
+            "arrival_platform": "",
+            "arrival_terminal": null,
+            "departure": "2025-02-25T03:45:00+03:00",
+            "departure_platform": "",
+            "departure_terminal": null,
+            "duration": 14400.0,
+            "from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "has_transfers": false,
+            "start_date": "2025-02-25",
+            "stops": "",
+            "thread": {
+                "carrier": {
+                    "address": "",
+                    "code": 62263,
+                    "codes": {
+                        "iata": null,
+                        "icao": null,
+                        "sirena": null
+                    },
+                    "contacts": "",
+                    "email": "",
+                    "logo": null,
+                    "logo_svg": null,
+                    "phone": "",
+                    "title": "ООО \"ЭКОЛАЙНС РУС\"",
+                    "url": ""
+                },
+                "express_type": null,
+                "number": "",
+                "short_title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2025-02-25&uid=empty_8_f9623413t9637148_114",
+                "title": "Псков, автовокзал — Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_subtype": {
+                    "code": null,
+                    "color": null,
+                    "title": null
+                },
+                "transport_type": "bus",
+                "uid": "empty_8_f9623413t9637148_114",
+                "vehicle": null
+            },
+            "tickets_info": {
+                "et_marker": false,
+                "places": []
+            },
+            "to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            }
+        },
+        {
+            "arrival": "2025-02-24T14:30:00+03:00",
+            "arrival_to": {
+                "code": "s9637148",
+                "popular_title": "Автовокзал на Обводном канале",
+                "short_title": null,
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Санкт-Петербург, автовокзал на Обводном канале",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "departure": "2025-02-24T08:00:00+03:00",
+            "departure_from": {
+                "code": "s9623413",
+                "popular_title": "Автовокзал Псков",
+                "short_title": "",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "title": "Псков, автовокзал",
+                "transport_type": "bus",
+                "type": "station"
+            },
+            "details": [
+                {
+                    "arrival": "2025-02-24T09:32:00+03:00",
+                    "arrival_platform": "",
+                    "arrival_terminal": null,
+                    "departure": "2025-02-24T08:00:00+03:00",
+                    "departure_platform": "",
+                    "departure_terminal": null,
+                    "duration": 5520.0,
+                    "from": {
+                        "code": "c25",
+                        "popular_title": "Псков",
+                        "short_title": "Псков",
+                        "title": "Псков",
+                        "type": "settlement"
+                    },
+                    "start_date": "2025-02-24",
+                    "stops": "",
+                    "thread": {
+                        "carrier": {
+                            "code": 59067,
+                            "codes": {
+                                "iata": null,
+                                "icao": null,
+                                "sirena": null
+                            },
+                            "title": "ГППО Псковпассажиравтотранс"
+                        },
+                        "express_type": null,
+                        "number": "",
+                        "short_title": "Псков, автовокзал — Дно",
+                        "title": "Псков, автовокзал — Дно",
+                        "transport_subtype": {
+                            "code": null,
+                            "color": null,
+                            "title": null
+                        },
+                        "transport_type": "bus",
+                        "uid": "empty_0_f9623413t9637839_114",
+                        "vehicle": null
+                    },
+                    "to": {
+                        "code": "c20623",
+                        "popular_title": "Порхов",
+                        "short_title": "Порхов",
+                        "title": "Порхов",
+                        "type": "settlement"
+                    }
+                },
+                {
+                    "duration": 1980.0,
+                    "is_transfer": true,
+                    "transfer_from": {
+                        "code": "s9637852",
+                        "popular_title": null,
+                        "short_title": null,
+                        "station_type": "",
+                        "station_type_name": "автостанция",
+                        "title": "Порхов, автостанция",
+                        "transport_type": "bus",
+                        "type": "station"
+                    },
+                    "transfer_point": {
+                        "code": "c20623",
+                        "popular_title": "Порхов",
+                        "short_title": "Порхов",
+                        "title": "Порхов",
+                        "type": "settlement"
+                    },
+                    "transfer_to": {
+                        "code": "s9637852",
+                        "popular_title": null,
+                        "short_title": null,
+                        "station_type": "",
+                        "station_type_name": "автостанция",
+                        "title": "Порхов, автостанция",
+                        "transport_type": "bus",
+                        "type": "station"
+                    }
+                },
+                {
+                    "arrival": "2025-02-24T14:30:00+03:00",
+                    "arrival_platform": "",
+                    "arrival_terminal": null,
+                    "departure": "2025-02-24T10:05:00+03:00",
+                    "departure_platform": "",
+                    "departure_terminal": null,
+                    "duration": 15900.0,
+                    "from": {
+                        "code": "c20623",
+                        "popular_title": "Порхов",
+                        "short_title": "Порхов",
+                        "title": "Порхов",
+                        "type": "settlement"
+                    },
+                    "start_date": "2025-02-24",
+                    "stops": "",
+                    "thread": {
+                        "carrier": {
+                            "code": 59083,
+                            "codes": {
+                                "iata": null,
+                                "icao": null,
+                                "sirena": null
+                            },
+                            "title": "ИП Берко Александр Леонидович"
+                        },
+                        "express_type": null,
+                        "number": "",
+                        "short_title": "Порхов — Санкт-Петербург, автовокзал на Обводном канале",
+                        "title": "Порхов — Санкт-Петербург, автовокзал на Обводном канале",
+                        "transport_subtype": {
+                            "code": null,
+                            "color": null,
+                            "title": null
+                        },
+                        "transport_type": "bus",
+                        "uid": "empty_0_f9637852t9637148_114",
+                        "vehicle": null
+                    },
+                    "to": {
+                        "code": "c2",
+                        "popular_title": "Санкт-Петербург",
+                        "short_title": "Санкт-Петербург",
+                        "title": "Санкт-Петербург",
+                        "type": "settlement"
+                    }
+                }
+            ],
+            "has_transfers": true,
+            "transfers": [
+                {
+                    "code": "c20623",
+                    "popular_title": "Порхов",
+                    "short_title": "Порхов",
+                    "title": "Порхов",
+                    "type": "settlement"
+                }
+            ],
+            "transport_types": [
+                "bus",
+                "bus"
+            ]
+        }
+    ]
+}
